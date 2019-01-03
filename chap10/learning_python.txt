@@ -1,0 +1,3 @@
+In Python you can program using the OOP paradigm.
+In Python you can program using the imperative paradigm.
+In Python you can program using pretty much any paradigm.
